@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=093366&height=160&section=header&text=Elisa%20Mostafa&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=093366&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back-end+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=093366&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Back-end+)](https://git.io/typing-svg)
 
 <div align="center" >
 
