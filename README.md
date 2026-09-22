@@ -5,10 +5,10 @@
 <div align="center" >
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-	<img src="https://streak-stats.demolab.com/?user=ElisaMostafa&count_private=true&locale=pt-BR&theme=react&border_radius=10" alt="streak stats" style="margin: 0" />
+	<!-- <img src="https://streak-stats.demolab.com/?user=ElisaMostafa&count_private=true&locale=pt-BR&theme=react&border_radius=10" alt="streak stats" style="margin: 0" /> -->
 	 <br>
 	 <br>
-	<!-- <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ElisaMostafa&count_private=true&show_icons=true&locale=pt-BR&theme=react&border_radius=10&include_all_commits=true&hide=issues,prs&rank_icon=github&custom_title=Estatística%20do%20GitHub%20de%20Elisa%20Mostafa" alt="readme stats" style="margin: 0" />  -->
+	<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ElisaMostafa&count_private=true&show_icons=true&locale=pt-BR&theme=react&border_radius=10&include_all_commits=true&hide=issues,prs&rank_icon=github&custom_title=Estatística%20do%20GitHub%20de%20Elisa%20Mostafa" alt="readme stats" style="margin: 0" /> 
 	 <br>
 	 <br>
 	<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=ElisaMostafa&count_private=true&show_icons=true&locale=pt-BR&theme=react&border_radius=10&layout=donut&size_weight=1&count_weight=1&exclude_repo=github-readme-stats" alt="ElisaMostafa" style="margin: 0" />
