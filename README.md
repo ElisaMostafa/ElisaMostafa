@@ -41,7 +41,6 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="GIT" title="GIT" />&nbsp;&nbsp;&nbsp;
 	<img height="40" width="40" src="https://cdn.simpleicons.org/bitbucket" alt="BITBUCKET" title="BITBUCKET" />&nbsp;&nbsp;&nbsp;
 	<img height="40" width="40" src="https://cdn.simpleicons.org/figma" alt="FIGMA" title="FIGMA" />
-	<img height="40" width="40" src="https://cdn.simpleicons.org/salesforce" alt="SALESFORCE" title="SALESFORCE" />
 	<img height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="Photoshop" title="Photoshop"/>
 	<img height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" title="Postman"/>
 
